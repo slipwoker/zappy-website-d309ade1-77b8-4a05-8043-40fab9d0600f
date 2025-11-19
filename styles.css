@@ -93,15 +93,18 @@ img {
 }
 
 :root {
-  --primary-color: #00bcd4;
-  --secondary-color: #000000;
-  --accent-color: #ff6b35;
+--primary-color: #1A4D8F;
+  --secondary-color: #E67E22;
+  --accent-color: #27AE60;
   --bg-white: #ffffff;
-  --text-color: #1a1a1a;
+  --text-color: #4a4a4a;
   --text-light: #666666;
-  --border-color: #e0e0e0;
+  --border-color: #8C8C8C;
   --shadow: 0 4px 12px rgba(0,0,0,0.1);
   --shadow-hover: 0 8px 24px rgba(0,0,0,0.15);
+  --background-color: #FFFFFF;
+  --surface-color: #F8F9FA;
+  --text-secondary-color: #8c8c8c;
 }
 
 .container {
@@ -212,7 +215,7 @@ img {
 
 .nav-cta-btn {
   background: var(--primary-color);
-  color: #ffffff;
+  color: #FFFFFF;
   padding: 12px 28px;
   border-radius: 8px;
   text-decoration: none;
@@ -425,7 +428,7 @@ p {
 }
 
 .services-grid-section {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 30px 40px;
 }
 
@@ -487,7 +490,7 @@ p {
 .benefit-item {
   text-align: center;
   padding: 24px;
-  background: #f8f9fa;
+  background: #F8F9FA;
   border-radius: 12px;
   transition: all 0.3s ease;
 }
@@ -515,7 +518,7 @@ p {
 
 .target-audience {
   padding: 30px 40px;
-  background: #f8f9fa;
+  background: #F8F9FA;
 }
 
 .target-audience h2 {
@@ -622,7 +625,7 @@ p {
 }
 
 .process-section {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 30px 40px;
 }
 
@@ -689,7 +692,7 @@ p {
 }
 
 .expertise-section {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 30px 40px;
 }
 
@@ -740,13 +743,13 @@ p {
 }
 
 .value-item {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 24px;
   border-radius: 12px;
 }
 
 .approach-section {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 30px 40px;
 }
 
@@ -795,7 +798,7 @@ p {
 }
 
 .client-type {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 24px;
   border-radius: 12px;
 }
@@ -815,7 +818,7 @@ p {
 }
 
 .contact-form {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 24px;
   border-radius: 12px;
   margin-top: 1.5rem;
@@ -895,7 +898,7 @@ p {
   gap: 1rem;
   margin-bottom: 1.5rem;
   padding: 16px;
-  background: #f8f9fa;
+  background: #F8F9FA;
   border-radius: 8px;
 }
 
@@ -969,7 +972,7 @@ p {
 }
 
 .faq-section {
-  background: #f8f9fa;
+  background: #F8F9FA;
   padding: 30px 40px;
 }
 
@@ -1215,7 +1218,7 @@ p {
     font-size: 24px;
     z-index: 1000;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    background: #25d366;
+    background: #27AE60;
     color: white;
     text-decoration: none;
   }
@@ -1268,7 +1271,7 @@ img, picture, figure {
 
     /* Legal Footer Styles - Header Colors */
     .legal-footer {
-      background-color: #f2f2f2;
+      background-color: #F8F9FA;
       color: #1a1a1a;
       padding: 20px 0;
       font-size: 16px;
@@ -1485,7 +1488,7 @@ img, picture, figure {
 /* Cookie Consent Customizations */
 :root {
   --cc-btn-primary-bg: #3b82f6;
-  --cc-btn-primary-border: #3b82f6;
+  --cc-btn-primary-border: #1A4D8F;
   --cc-btn-primary-hover-bg: #2269dd;
 }
 
@@ -1652,9 +1655,9 @@ img, picture, figure {
 #mic-access-tool-general-button svg line,
 #mic-access-tool-general-button svg polyline,
 #mic-access-tool-general-button svg g {
-  fill: #f2f2f2 !important;
-  stroke: #f2f2f2 !important;
-  color: #f2f2f2 !important;
+  fill: #F8F9FA !important;
+  stroke: #F8F9FA !important;
+  color: #F8F9FA !important;
 }
 
 /* Target images if the icon is an img instead of SVG */
@@ -1675,7 +1678,7 @@ img, picture, figure {
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #f2f2f2 !important;
+  background: #F8F9FA !important;
   color: white !important;
 }
 
@@ -1702,8 +1705,8 @@ div[id*="mic-access-tool-box"] .header * {
 #mic-access-tool-box button:hover,
 div[id*="mic-access-tool-box"] button.active,
 div[id*="mic-access-tool-box"] button:hover {
-  border-color: #f2f2f2 !important;
-  color: #f2f2f2 !important;
+  border-color: #F8F9FA !important;
+  color: #F8F9FA !important;
   background-color: rgba(242, 242, 242, 0.1) !important;
 }
 
@@ -1712,7 +1715,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #f2f2f2 !important;
+  background: #F8F9FA !important;
   color: white !important;
 }
 
