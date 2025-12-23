@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### דף הבית
+https://example.com
+גלו ייעוץ משפטי מומחה בליטיגציה מסחרית ואזרחית המספק תוצאות אמיתיות. צרו קשר עוד היום לייעוץ ראשוני חינם!
+
+### שירותים
+https://example.com/services
+שירותי ייעוץ משפטי מקיפים בליטיגציה מסחרית ואזרחית, ייעוץ לסטארט-אפים, דיני נדל"ן וחוזים עסקיים. פתרונות משפטיים מותאמים אישית.
+
+### אודות
+https://example.com/about
+הכירו את שחר גבאי, עורך דין חברות לסטארטאפים ומומחה בליטיגציה מסחרית ואזרחית. ניסיון רב בייעוץ משפטי לעסקים קטנים ובינוניים.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם שחר גבאי לייעוץ משפטי בליטיגציה מסחרית ואזרחית, שירותי עורך דין חברות לסטארטאפים, וייעוץ לעסקים קטנים ובינוניים. פגישת ייעוץ חינם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
