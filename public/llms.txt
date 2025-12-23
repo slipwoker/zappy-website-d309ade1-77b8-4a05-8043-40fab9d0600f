@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# SHAHAR GABAY — Generative Engine Optimization Map
+
+> A משפטי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://shahar-gabay.zappy5.app
 גלו ייעוץ משפטי מומחה בליטיגציה מסחרית ואזרחית המספק תוצאות אמיתיות. צרו קשר עוד היום לייעוץ ראשוני חינם!
 
 ### שירותים
-https://example.com/services
+https://shahar-gabay.zappy5.app/services
 שירותי ייעוץ משפטי מקיפים בליטיגציה מסחרית ואזרחית, ייעוץ לסטארט-אפים, דיני נדל"ן וחוזים עסקיים. פתרונות משפטיים מותאמים אישית.
 
 ### אודות
-https://example.com/about
+https://shahar-gabay.zappy5.app/about
 הכירו את שחר גבאי, עורך דין חברות לסטארטאפים ומומחה בליטיגציה מסחרית ואזרחית. ניסיון רב בייעוץ משפטי לעסקים קטנים ובינוניים.
 
 ### צור קשר
-https://example.com/contact
+https://shahar-gabay.zappy5.app/contact
 צרו קשר עם שחר גבאי לייעוץ משפטי בליטיגציה מסחרית ואזרחית, שירותי עורך דין חברות לסטארטאפים, וייעוץ לעסקים קטנים ובינוניים. פגישת ייעוץ חינם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://shahar-gabay.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://shahar-gabay.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://shahar-gabay.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About SHAHAR GABAY
+SHAHAR GABAY is a business in the משפטי industry.
+
+## Target Audience
+- בעלי עסקים עם צרכים משפטיים
+- משקיעי נדל"ן
+- סטארט-אפים שזקוקים לייעוץ משפטי
+
+## Industry
+משפטי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://shahar-gabay.zappy5.app/sitemap.xml
+- **Robots.txt**: https://shahar-gabay.zappy5.app/robots.txt
