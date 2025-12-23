@@ -1,6 +1,4 @@
-# SHAHAR GABAY — Generative Engine Optimization Map
-
-> A משפטי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,17 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About SHAHAR GABAY
-SHAHAR GABAY is a business in the משפטי industry.
-
-## Target Audience
-- בעלי עסקים עם צרכים משפטיים
-- משקיעי נדל"ן
-- סטארט-אפים שזקוקים לייעוץ משפטי
-
-## Industry
-משפטי
-
+## About Business
 ---
 
 # Additional Resources
