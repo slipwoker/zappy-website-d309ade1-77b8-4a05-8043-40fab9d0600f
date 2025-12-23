@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# SHAHAR GABAY — Generative Engine Optimization Map
+
+> A משפטי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://shahar-gabay.zappy5.app
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com
 גלו ייעוץ משפטי מומחה בליטיגציה מסחרית ואזרחית המספק תוצאות אמיתיות. צרו קשר עוד היום לייעוץ ראשוני חינם!
 
 ### שירותים
-https://shahar-gabay.zappy5.app/services
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/services
 שירותי ייעוץ משפטי מקיפים בליטיגציה מסחרית ואזרחית, ייעוץ לסטארט-אפים, דיני נדל"ן וחוזים עסקיים. פתרונות משפטיים מותאמים אישית.
 
 ### אודות
-https://shahar-gabay.zappy5.app/about
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/about
 הכירו את שחר גבאי, עורך דין חברות לסטארטאפים ומומחה בליטיגציה מסחרית ואזרחית. ניסיון רב בייעוץ משפטי לעסקים קטנים ובינוניים.
 
 ### צור קשר
-https://shahar-gabay.zappy5.app/contact
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/contact
 צרו קשר עם שחר גבאי לייעוץ משפטי בליטיגציה מסחרית ואזרחית, שירותי עורך דין חברות לסטארטאפים, וייעוץ לעסקים קטנים ובינוניים. פגישת ייעוץ חינם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://shahar-gabay.zappy5.app/privacy
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://shahar-gabay.zappy5.app/terms
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://shahar-gabay.zappy5.app/accessibility
+https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About SHAHAR GABAY
+SHAHAR GABAY is a business in the משפטי industry.
+
+## Target Audience
+- בעלי עסקים עם צרכים משפטיים
+- משקיעי נדל"ן
+- סטארט-אפים שזקוקים לייעוץ משפטי
+
+## Industry
+משפטי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://shahar-gabay.zappy5.app/sitemap.xml
-- **Robots.txt**: https://shahar-gabay.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-d309ade1-77b8-4a05-8043.onrender.com/robots.txt
